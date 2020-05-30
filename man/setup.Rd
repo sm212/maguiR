@@ -7,7 +7,7 @@
 setup(path = ".")
 }
 \arguments{
-\item{path}{charater string, specifies where to make folders. Defaults to current directory}
+\item{path}{character string, specifies where to make folders. Defaults to current directory}
 }
 \value{
 
